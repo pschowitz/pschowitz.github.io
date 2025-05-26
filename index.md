@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Portfolio
+title: Philip Schowitz
 ---
 
 # Welcome!
